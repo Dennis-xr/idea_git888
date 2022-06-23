@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("new line");
         System.out.println("branch dev update");
         System.out.println("master update");
+        System.out.println("push on github update");
     }
 }
